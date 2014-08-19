@@ -6,7 +6,7 @@ using XHD.Model;
 namespace XHD.BLL
 {
 	/// <summary>
-	/// Sys_role
+	/// Sys_role dd
 	/// </summary>
 	public partial class Sys_role
 	{
